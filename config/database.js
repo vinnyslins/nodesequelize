@@ -1,6 +1,6 @@
 module.exports = {
-	username: 'meanfit',
-	password: 'meanfit2018',
+	username: '',
+	password: '',
 	database: 'meanfit',
 	host: 'mysql642.umbler.com',
 	port: 41890,
